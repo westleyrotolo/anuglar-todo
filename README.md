@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular 2.0 (beta 6) + TypeScript seed - "Goldilocks Edition"
 
 Setting up a build for Angular 2.0 is a non-trivial task and can suck up a lot of your time. I found a few 'seed' projects, which provide a good starting point for Angular 2.0 development, however the ones I found were either [too simple](https://github.com/pkozlowski-opensource/ng2-play) or [far too complicated](https://github.com/mgechev/angular2-seed) for my needs. That's why I decided to put together a simple, yet complete, seed project that was "just right", the [Goldilocks](https://en.wikipedia.org/wiki/Goldilocks_and_the_Three_Bears) of seed projects!
@@ -82,3 +83,7 @@ The following is a brief overview of everything in this project:
 ## Development tools
 
 For Angular 2 / TypeScript development I am using the Atom editor with the **atom-typescript** plugin, which  together with **linter-ts**.
+=======
+# anuglar-todo
+Internal project
+>>>>>>> 91eaf1b2cacb017c7c93e3f16aba9ddc5431b9db
